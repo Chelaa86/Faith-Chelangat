@@ -32,7 +32,7 @@ I’m always open to collaborating on interesting projects or discussing data-re
 
 ---
 
-⭐️ Fun Fact: I normally wake up and do a 2-minute plank.
+⭐️ Fun Fact: I enjoy doing planks.
 
 ---
 
