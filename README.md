@@ -23,6 +23,7 @@ I’m currently learning:
 - Advanced SQL techniques
 - Machine learning with Python
 - Data storytelling best practices
+- Data engineering
 
 ---
 
@@ -32,7 +33,7 @@ I’m always open to collaborating on interesting projects or discussing data-re
 
 ---
 
-⭐️ Fun Fact: I enjoy doing planks.
+⭐️ Fun Fact: I have an amazing smile.
 
 ---
 
